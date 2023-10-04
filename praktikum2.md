@@ -1,4 +1,4 @@
-Praktikum 2 
+h1 Praktikum 2 
 
 
 Selles praktikas seadistasin Virtuaalmasina Ubuntu 22.04, Oli väga huvitav praktika, enne ei kasutanud kunagi Ubuntu. 
