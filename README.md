@@ -1,1 +1,1 @@
-# praktikum.md
+# praktikum.md Operatsioonisüsteemi praktikumi tööd
