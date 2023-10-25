@@ -15,7 +15,7 @@ Igale olevatele gruppile saab esitatada vaikimisi õigusi, et igal kasutajal oli
 Ma ei tea miks ta ei pääse mind uusfail.txt teksti näha, tegin kõik mida saaksin, aga ikkagi ei saa vaadata, ei tea miks :(
 <img width="743" alt="Screenshot 2023-10-25 223409" src="https://github.com/angelinazhuma/Praktikum/assets/145142791/d7978ad2-9cc9-46c2-ba00-7f7ce6eeeee4">
 # 5.5
-![image](https://github.com/angelinazhuma/Praktikum/assets/145142791/1cde7db8-9815-46a9-988c-f58f617bca46)
+![image](https://github.com/angelinazhuma/Praktikum/assets/145142791/f34eeee9-4bfa-4970-bed0-819f4ead0ba1)
 Setuid-õigus võimaldab programmil käivituda selle omaniku õigustes, mitte käivitaja omades. 
 See on vajalik olukordades, kus kasutajatel on vaja teha teatud toiminguid, mis muidu nõuaksid kõrgemaid õigusi või parooli jagamist.
 # 5.6
