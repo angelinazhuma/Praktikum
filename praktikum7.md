@@ -1,4 +1,5 @@
 ## Praktikum 7
+Selles praktikumis uurisin kuidas lokaalseid ja võrgukettaid Windowsi ja Linuxi keskkonnas kasutada. Sellepärast, et ei saanud olla praktikumis, pidin VPN paigaldama, Windowsiga kõik läks hästi, aga Linuxis oli väga raske seda paigaldada, ei tea miks mul nii kaua läks. Aga praktikum oli huvitav, mulle meeldis.
 # 1.
 Andmekandjad vajavad lähtestamist, et kaitsta kasutaja privaatsust, 
 kustutades kõik eelnevad isiklikud andmed. Lisaks võib lähtestamine olla vajalik tehniliste probleemide lahendamiseks ja seadme jõudluse optimeerimiseks.
