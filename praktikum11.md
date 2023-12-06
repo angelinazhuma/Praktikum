@@ -13,5 +13,7 @@ Oli huvitav ja informatiivne praktikum
 Server:AkamaiGHost
 <img width="474" alt="Screenshot 2023-12-06 232155" src="https://github.com/angelinazhuma/Praktikum/assets/145142791/8a633a42-b742-4801-89e2-cb8364ac12ae">
 Ma arvan ,et see tähendab, et minu nimi ei ole leidud veebilehel.
+
 # 13.4 
-![image](https://github.com/angelinazhuma/Praktikum/assets/145142791/8689d408-32bd-4553-9554-e19e0dc29a5e)
+
+![pictu](https://github.com/angelinazhuma/Praktikum/assets/145142791/51b56d39-eaf8-4f1b-8e31-49fd43f4624e)
