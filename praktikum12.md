@@ -18,7 +18,7 @@ echo "Sinu matriklinumber on $matriklinumber"
 <img width="319" alt="Screenshot 2023-12-13 213708" src="https://github.com/angelinazhuma/Praktikum/assets/145142791/fb893037-03b2-4410-a0c7-d42ce43fca11">
 
 # Ulesanne 4
-
+```
 #if [ "$#" -ne 2 ]; then
   echo "Kasutamine: $0 <algne_laiend> <uus_laiend>"
   exit 1
@@ -35,9 +35,11 @@ for fail in *.$algne_laiend; do
     fi
   fi
 done
+```
 <img width="282" alt="Screenshot 2023-12-13 220549" src="https://github.com/angelinazhuma/Praktikum/assets/145142791/32b1450d-90fb-4c7b-86e4-b392fc7a6213">
 
 # Ulesanne 5
+```
 #!/bin/bash
 
 if [ "$#" -ne 1 ]; then
@@ -53,10 +55,12 @@ for line in $(ps -A | grep "$protsessi_nimi"); do
 
   echo "Protsess: $protsessi_nimi, PID: $protsessi_pid"
 done
+```
 >
 <img width="277" alt="Screenshot 2023-12-13 223603" src="https://github.com/angelinazhuma/Praktikum/assets/145142791/4d3830b7-02af-41d1-a8b4-67e3dbf17139">
 
 # Ulesanne 6
+```
 #!/bin/bash
 
 astenda() {
@@ -76,6 +80,7 @@ eksponent=5
 tulemus=$(astenda $alus $eksponent)
 
 echo "9^5 = $tulemus"
+```
 <img width="460" alt="Screenshot 2023-12-13 222258" src="https://github.com/angelinazhuma/Praktikum/assets/145142791/83755054-b944-4f11-9070-6ad093d47a44">
 
 # Ulesanne 7
