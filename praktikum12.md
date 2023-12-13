@@ -2,6 +2,7 @@
 Väga huvitav praktikum, mulle meeldis rohkem kui kõik teised :)
 
 # Ulesanne 3
+```
 echo "Sisesta oma nimi:"
 read nimi
 echo "Sisesta oma eriala:"
@@ -12,11 +13,13 @@ read matriklinumber
 echo "Sinu nimi on: $nimi"
 echo "Sinu eriala on $eriala"
 echo "Sinu matriklinumber on $matriklinumber"
+```
 
 <img width="319" alt="Screenshot 2023-12-13 213708" src="https://github.com/angelinazhuma/Praktikum/assets/145142791/fb893037-03b2-4410-a0c7-d42ce43fca11">
 
 # Ulesanne 4
-if [ "$#" -ne 2 ]; then
+
+#if [ "$#" -ne 2 ]; then
   echo "Kasutamine: $0 <algne_laiend> <uus_laiend>"
   exit 1
 fi
@@ -50,7 +53,8 @@ for line in $(ps -A | grep "$protsessi_nimi"); do
 
   echo "Protsess: $protsessi_nimi, PID: $protsessi_pid"
 done
-<img width="460" alt="Screenshot 2023-12-13 222258" src="https://github.com/angelinazhuma/Praktikum/assets/145142791/8ecfe2d9-9c13-4fc7-8e43-d73fc7bf88ff">
+>
+<img width="277" alt="Screenshot 2023-12-13 223603" src="https://github.com/angelinazhuma/Praktikum/assets/145142791/4d3830b7-02af-41d1-a8b4-67e3dbf17139">
 
 # Ulesanne 6
 #!/bin/bash
