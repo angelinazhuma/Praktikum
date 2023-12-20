@@ -1,6 +1,6 @@
 ## Praktikum 13 
 Ma ei saanud pci sedadmete draiveri infot kätte :(
-
+```
 # Masina nimi, PowerShelli versioon ja Windowsi versioon
 $hostname = $env:COMPUTERNAME
 $psVersion = $PSVersionTable.PSVersion.ToString()
@@ -80,3 +80,4 @@ Arvuti kuupäev ja kellaaeg: $dateTime
 "@ | Out-File -FilePath $outputFilePath -Encoding UTF8
 
 Write-Host "Skripti käivitamise tulemus on salvestatud faili: $outputFilePath"
+```
